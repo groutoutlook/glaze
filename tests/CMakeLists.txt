@@ -85,6 +85,7 @@ add_subdirectory(json_test)
 
 add_subdirectory(networking_tests)
 
+add_subdirectory(my_integration_test)
 if(glaze_EETF_FORMAT)
     add_subdirectory(eetf_test)
 endif(glaze_EETF_FORMAT)
